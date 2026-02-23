@@ -1,5 +1,5 @@
 # Digital Hand Cricket
-Page Deployment Link: https://barathkumarbk-15.github.io/HandCricket
+Page Deployment Link: https://hand-cricket.beekayg15.com
 ***
 An **interactive webpage** bringing to life, the digital version of the primitive **Hand Cricket game**, created using `HTML`, `CSS`, `JavaScript`, `NodeJS` and `React`.
 
